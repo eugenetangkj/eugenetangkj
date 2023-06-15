@@ -1,7 +1,7 @@
 # Hi there, I am Eugene! 👋💻
 
 <p align="center">
-  <img width="600" height="400" src="assets/graphic-cover.png">
+  <img width="600" height="425" src="assets/graphic-cover.png">
 </p>
 
 ## About Me

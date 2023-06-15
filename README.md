@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there, I am Eugene! 👋💻
+
+<p align="center">
+  <img width="800" height="500" src="assets/graphic-cover.png">
+</p>
+
 
 <!--
 **eugenetangkj/eugenetangkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

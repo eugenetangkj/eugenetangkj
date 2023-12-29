@@ -5,7 +5,7 @@
 </p>
 
 ## About Me
-I am an aspiring software engineer with a genuine passion for building user-centric products. My primary focus is on creating visually appealing, intuitive-to-use, and highly functional interfaces. Thus, I am constantly exploring the latest technologies and staying updated with emerging UX design trends.
+I am an aspiring software engineer with a genuine passion for building user-centric products. My primary focus is on creating visually appealing, intuitive-to-use, and highly functional interfaces. Thus, I am constantly exploring the latest technologies and staying updated with emerging UX design trends. ✏️🖼️
 
 ## Guiding Philosophy
 
